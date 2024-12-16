@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Chamara Madushanka <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> <br/> <h3 align="center">🚀 Cybersecurity Enthusiast | Penetration Tester | Security Intern </h3> </h1>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiXS3oeJUquL7gMcjb1OsbIDemNecEqxJ-yU2Ly1DH6e-hVaFy-YGisavqRB0O7DTHsn4&usqp=CAU"width="400" height="200"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" width="1000" height="150"/"/>
 </p>
 
 <p align="left">
